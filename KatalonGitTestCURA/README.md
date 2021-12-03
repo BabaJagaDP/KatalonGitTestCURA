@@ -1,2 +1,0 @@
-# KatalonGitTestCURA
-if - else
